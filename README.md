@@ -9,6 +9,6 @@ googleの検索で取得した手の病気の画像を分類するモデルを�
 学んだこと：タスクによって損失関数や評価指標を作成することを学んだ。<br>
 
 GUIクイックスタート<br>
-git clone
-cd GUI
-python self_checkup_GUI.py
+git clone<br>
+cd GUI<br>
+python self_checkup_GUI.py<br>
