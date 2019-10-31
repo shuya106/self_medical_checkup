@@ -8,6 +8,8 @@
 ・方法：様々なモデルを作成し、結果を比べた。詳細はHistory.ipynbに記載<br>
 ・結果：正解率ならVGG19-categorical_crossentropy, 軽症だと誤判定する割合の低さなら,VGG16+SVM-custom_loss。<br>
      詳細はHistory.ipynbに記載。<br>
+
+![result](https://user-images.githubusercontent.com/50583880/67921415-f69e4f80-fbea-11e9-8c56-d05e5860553d.png)
 ・学んだこと：タスクによって損失関数や評価指標選ばなければならないことを学んだ。<br>
 <br>
 Introduce.pdfにスライドとしてプロジェクトの概要を記載。<br>
